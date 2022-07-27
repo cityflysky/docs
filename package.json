@@ -1,0 +1,15 @@
+{
+  "name": "cityflysky-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cityflysky/cityflysky-docs.git",
+  "author": "Flexfinancial <Cynthiatk7@gmail.com>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "Fund your thing with CityFlySky. The funding platform for DAOs, decentralized crowdfunding, Web3 businesses and communities. Built on Chain."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
