@@ -6,7 +6,7 @@
   "author": "Flexfinancial <Cynthiatk7@gmail.com>",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "Fund your thing with CityFlySky. The funding platform for DAOs, decentralized crowdfunding, Web3 businesses and communities. Built on Chain."
+    "docs:build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
