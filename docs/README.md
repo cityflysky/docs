@@ -2,7 +2,9 @@
 
 > The DAO is an exciting concept whose core is the desire for equal authority, multi-party decision-making, and the elimination of uncontrollable risks arising from authoritarian governance as much as possible. DAO is a new type of management that was born for governance.
 >
->  As the most in line with the spirit of blockchain governance, DAO must have its place in the blockchain ecological map, and is an indispensable and important piece of the puzzle.
+> As the most in line with the spirit of blockchain governance, DAO must have its place in the blockchain ecological map, and is an indispensable and important piece of the puzzle.
+>
+> 
 
 ## What is the Cityflysky
 
@@ -11,6 +13,8 @@ Cityflysky is a DAO that provides tools for DAO organizations, and its core is t
  Cityflysky will provide an easy-to-use DAO creation tool that requires minimal gas and a few minutes to fill in the data to create a DAO.
 
 Different DAOs will provide a one-of-a-kind city NFT .
+
+
 
 ## Our Vision
 
